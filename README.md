@@ -66,7 +66,3 @@ Also application can summarize expenses by provided month
 ```bash
 ./expense-tracker summary --month 12
 ```
-
-## Credits
-
-The provided problem was proposed by website [roadmap.sh](https://roadmap.sh/projects/expense-tracker)
